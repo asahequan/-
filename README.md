@@ -1,5 +1,5 @@
 body{
-  background:url(背景画像URL) center/cover no-repeat fixed !important;
+  background:url(https://ul.h3z.jp/5x50EbG4.jpeg) center/cover no-repeat fixed !important;
 }
 
 /* ページ中央化 */
